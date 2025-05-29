@@ -15,7 +15,9 @@ The goal of this 30-day challenge is to build a solid foundation in Python — f
 
 All challenge questions, and code are updated daily in a single Jupyter Notebook file:
 
-📘 [Click here to view/download the Jupyter Notebook](30DaysChallenge.ipynb)
+
+- 📘[Click to view and download DailyChallenges](./DailyChallenges) – Daily Python practice files
+- [Notebooks](./Notebooks) – Jupyter notebooks 
 
 ## 🔗 Connect with Me
 
