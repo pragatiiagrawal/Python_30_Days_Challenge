@@ -17,7 +17,7 @@ All challenge questions, and code are updated daily in a single Jupyter Notebook
 
 
 - 📘[Click to view and download DailyChallenges](./DailyChallenges) – Daily Python practice files
-- [Notebooks](./Notebooks) – Jupyter notebooks 
+- [Notebooks](./DailyChallenges/Notebooks) – Jupyter notebooks 
 
 ## 🔗 Connect with Me
 
