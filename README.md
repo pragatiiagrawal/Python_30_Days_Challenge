@@ -15,7 +15,7 @@ The goal of this 30-day challenge is to build a solid foundation in Python — f
 
 Daily Python challenge questions and solutions are available in two formats:
   
-- 🐍 [DailyChallenges – Python Script Files](./DailyChallenges)  
+- 🐍 [DailyChallenges – Python Script Files](./DailyChallenges/PythonScripts)  
 Contains `.py` files for each day of the challenge.
 
 
