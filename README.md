@@ -11,13 +11,17 @@ This repository is where I’ll be tracking and sharing my daily Python practice
 
 The goal of this 30-day challenge is to build a solid foundation in Python — from the basics to some advanced concepts — while sharing progress publicly to stay consistent and learn together.
 
-## 📓 Notebook
+## 📘 Challenge Files
 
-All challenge questions, and code are updated daily in a single Jupyter Notebook file:
+Daily Python challenge questions and solutions are available in two formats:
+  
+- 🐍 [DailyChallenges – Python Script Files](./DailyChallenges)  
+Contains `.py` files for each day of the challenge.
 
 
-- 📘[Click to view and download DailyChallenges](./DailyChallenges) – Daily Python practice files
-- [Notebooks](./DailyChallenges/Notebooks) – Jupyter notebooks 
+- 📓 [Notebooks – Jupyter Notebooks](./DailyChallenges/Notebooks)  
+Contains .ipynb notebook versions of the same challenges for interactive exploration. 
+
 
 ## 🔗 Connect with Me
 
@@ -35,3 +39,4 @@ Use and follow:
 ---
 
 ## 🧠 Let's Learn Together
+## Happy Coding 🚀
