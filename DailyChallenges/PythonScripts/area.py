@@ -2,8 +2,8 @@
 # Write a program that calculates the area of a rectangle using user-input length and width.
 
 print("----Let's Calculate the area of rectangle ----")
-# Step-1 Taking input from the user
-# Step-2 The input function returns a string, so we use int() to convert it to an integer
+# Taking input from the user
+# The input function returns a string, so we use int() to convert it to an integer
 length = float(input("Enter the length of the rectangle in cm: "))
 width = float(input("Enter the width of the rectangle in cm: "))
 # Calculating area
