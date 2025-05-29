@@ -3,7 +3,7 @@
 
 print("----Let's Calculate the area of rectangle ----")
 # Taking input from the user
-# The input function returns a string, so we use int() to convert it to an integer
+# input() returns a string, so use float() to convert it to a decimal.
 length = float(input("Enter the length of the rectangle in cm: "))
 width = float(input("Enter the width of the rectangle in cm: "))
 # Calculating area
