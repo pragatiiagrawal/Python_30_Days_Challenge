@@ -5,7 +5,7 @@
 while True:
     user_input = input("Enter a digit or 'Exit' to quit the program.\n")
     
-    if user_input.lower() =='exit':
+    if user_input.lower() == 'exit':
         print("--- Exiting the Program ----")
         break
     if not user_input.isdigit():
