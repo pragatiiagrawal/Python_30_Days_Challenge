@@ -3,9 +3,9 @@
 # Prime Number: A number is a prime number if it is divisible by 1 and the number itself.
 
 while True:
-    user_input = input("Enter a digit or 'exit' to quit the program.\n")
+    user_input = input("Enter a digit or 'Exit' to quit the program.\n")
     
-    if user_input =='exit'.lower():
+    if user_input.lower() =='exit':
         print("--- Exiting the Program ----")
         break
     if not user_input.isdigit():
