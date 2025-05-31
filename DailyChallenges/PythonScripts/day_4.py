@@ -22,6 +22,8 @@ while True:
     if count == 2:
         print("This is  a prime number.")
         print("--------------------------------------------------")
+    elif count == 1:
+        print("This is neither prime nor composite number")
     else:
-        print("This is not a prime number")
+        print("This is composite number")
         print("--------------------------------------------------")
