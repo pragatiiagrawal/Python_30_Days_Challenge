@@ -1,3 +1,7 @@
+# Day 4 
+# Challenge: Write a program to check if a user-entered number is prime.
+# Prime Number: A number is a prime number if it is divisible by 1 and the number itself.
+
 while True:
     user_input = input("Enter a digit or 'exit' to quit the program.\n")
     
