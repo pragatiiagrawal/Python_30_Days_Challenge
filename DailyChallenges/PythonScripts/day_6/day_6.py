@@ -5,7 +5,7 @@
 
 import random
 import math
-import custom_charset
+import DailyChallenges.PythonScripts.day_6.custom_charset as custom_charset
 
 def generate_password():
     password = ""
